@@ -13,7 +13,7 @@
 - 🌱 I'm on track for learning **more about Spring Framework.**
 - 💬 Love to code in **Java**
 - 📫 How to reach me - You can mail me at **ayushsinghssm2000@gmail.com**
-- 📄 My portfolio -> [https://l.instagram.com/?u=https%3A%2F%2Fayushrajput01.github.io%2FPortfolio-website%2F&e=AT2HHBNV9-J1D00sXXeQ_HZtah1_trsSqZ1-GLQGBGXHFUDq3VYrQPvKRX4mDonrnmTzmE63DHB4QGp2Tkeo2En2Jb7b55vighJvEhHNCLVYoXilLXBatwhttps://l.instagram.com/?u=https%3A%2F%2Fayushrajput01.github.io%2FPortfolio-website%2F&e=AT2HHBNV9-J1D00sXXeQ_HZtah1_trsSqZ1-GLQGBGXHFUDq3VYrQPvKRX4mDonrnmTzmE63DHB4QGp2Tkeo2En2Jb7b55vighJvEhHNCLVYoXilLXBatw](http://128.199.31.111/)
+- 📄 My portfolio -> https://ayushrajput01.github.io/Portfolio-website/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
