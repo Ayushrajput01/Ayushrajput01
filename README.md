@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Rajput</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-[![Linkedin: Ayush](https://img.shields.io/badge/-Shobhit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shobhit-raj-19a588215/)](https://www.linkedin.com/in/ayush-rajput-968172237/)
+[![Linkedin: Ayush](https://img.shields.io/badge/-Ayush-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shobhit-raj-19a588215/)](https://www.linkedin.com/in/ayush-rajput-968172237/)
 ![GitHub followers](https://img.shields.io/github/followers/Ayushrajput01?label=Followers&style=social)
 ![Profile views](https://gpvc.arturio.dev/Ayushrajput01)
 
